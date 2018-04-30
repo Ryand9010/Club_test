@@ -1,0 +1,13 @@
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\bin\Debug\Interface_Example.exe.config
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\bin\Debug\Interface_Example.exe
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\bin\Debug\Interface_Example.pdb
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\obj\Debug\Interface_Example.csprojResolveAssemblyReference.cache
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\obj\Debug\Interface_Example.Form1.resources
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\obj\Debug\Interface_Example.Properties.Resources.resources
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\obj\Debug\Interface_Example.csproj.GenerateResource.cache
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\obj\Debug\Interface_Example.csproj.CoreCompileInputs.cache
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\obj\Debug\Interface_Example.exe
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\obj\Debug\Interface_Example.pdb
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\bin\Debug\LocationInterfaceLib.dll
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\bin\Debug\LocationInterfaceLib.pdb
+E:\Spring 2018\Programming\Interface_Example\Interface_Example\obj\Debug\Interface_Example.csproj.CopyComplete

@@ -1,0 +1,11 @@
+E:\Spring 2018\Programming\InheritanceLab\CarTypesLib\obj\Debug\CarTypesLib.csprojResolveAssemblyReference.cache
+E:\Spring 2018\Programming\InheritanceLab\CarTypesLib\bin\Debug\CarTypesLib.dll
+E:\Spring 2018\Programming\InheritanceLab\CarTypesLib\bin\Debug\CarTypesLib.pdb
+E:\Spring 2018\Programming\InheritanceLab\CarTypesLib\obj\Debug\CarTypesLib.dll
+E:\Spring 2018\Programming\InheritanceLab\CarTypesLib\obj\Debug\CarTypesLib.pdb
+D:\Spring 2018\Programming\InheritanceLab\CarTypesLib\bin\Debug\CarTypesLib.dll
+D:\Spring 2018\Programming\InheritanceLab\CarTypesLib\bin\Debug\CarTypesLib.pdb
+D:\Spring 2018\Programming\InheritanceLab\CarTypesLib\obj\Debug\CarTypesLib.csprojResolveAssemblyReference.cache
+D:\Spring 2018\Programming\InheritanceLab\CarTypesLib\obj\Debug\CarTypesLib.csproj.CoreCompileInputs.cache
+D:\Spring 2018\Programming\InheritanceLab\CarTypesLib\obj\Debug\CarTypesLib.dll
+D:\Spring 2018\Programming\InheritanceLab\CarTypesLib\obj\Debug\CarTypesLib.pdb

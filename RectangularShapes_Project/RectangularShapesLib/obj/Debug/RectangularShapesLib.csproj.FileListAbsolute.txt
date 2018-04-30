@@ -1,0 +1,6 @@
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapesLib\obj\Debug\RectangularShapesLib.csprojResolveAssemblyReference.cache
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapesLib\obj\Debug\RectangularShapesLib.csproj.CoreCompileInputs.cache
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapesLib\bin\Debug\RectangularShapesLib.dll
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapesLib\bin\Debug\RectangularShapesLib.pdb
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapesLib\obj\Debug\RectangularShapesLib.dll
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapesLib\obj\Debug\RectangularShapesLib.pdb

@@ -1,0 +1,14 @@
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\obj\Debug\RectangularShapes_Project.csprojResolveAssemblyReference.cache
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\obj\Debug\RectangularShapes_Project.Properties.Resources.resources
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\obj\Debug\RectangularShapes_Project.csproj.GenerateResource.Cache
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\obj\Debug\RectangularShapes_Project.csproj.CoreCompileInputs.cache
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\bin\Debug\RectangularShapes_Project.exe.config
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\bin\Debug\RectangularShapes_Project.exe
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\bin\Debug\RectangularShapes_Project.pdb
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\bin\Debug\RectangularShapesLib.dll
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\bin\Debug\RectangularShapesLib.pdb
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\obj\Debug\RectangularShapes_Project.exe
+D:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\obj\Debug\RectangularShapes_Project.pdb
+E:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\bin\Debug\RectangularShapes_Project.exe.config
+E:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\obj\Debug\RectangularShapes_Project.exe
+E:\Spring 2018\Programming\RectangularShapes_Project\RectangularShapes_Project\obj\Debug\RectangularShapes_Project.pdb

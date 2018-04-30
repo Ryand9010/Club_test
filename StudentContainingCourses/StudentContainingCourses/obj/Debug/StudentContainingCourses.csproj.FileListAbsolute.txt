@@ -1,0 +1,10 @@
+E:\Spring 2018\Programming\StudentContainingCourses\StudentContainingCourses\bin\Debug\StudentContainingCourses.exe.config
+E:\Spring 2018\Programming\StudentContainingCourses\StudentContainingCourses\bin\Debug\StudentContainingCourses.exe
+E:\Spring 2018\Programming\StudentContainingCourses\StudentContainingCourses\bin\Debug\StudentContainingCourses.pdb
+E:\Spring 2018\Programming\StudentContainingCourses\StudentContainingCourses\obj\Debug\StudentContainingCourses.csprojResolveAssemblyReference.cache
+E:\Spring 2018\Programming\StudentContainingCourses\StudentContainingCourses\obj\Debug\StudentContainingCourses.Form1.resources
+E:\Spring 2018\Programming\StudentContainingCourses\StudentContainingCourses\obj\Debug\StudentContainingCourses.Properties.Resources.resources
+E:\Spring 2018\Programming\StudentContainingCourses\StudentContainingCourses\obj\Debug\StudentContainingCourses.csproj.GenerateResource.cache
+E:\Spring 2018\Programming\StudentContainingCourses\StudentContainingCourses\obj\Debug\StudentContainingCourses.csproj.CoreCompileInputs.cache
+E:\Spring 2018\Programming\StudentContainingCourses\StudentContainingCourses\obj\Debug\StudentContainingCourses.exe
+E:\Spring 2018\Programming\StudentContainingCourses\StudentContainingCourses\obj\Debug\StudentContainingCourses.pdb

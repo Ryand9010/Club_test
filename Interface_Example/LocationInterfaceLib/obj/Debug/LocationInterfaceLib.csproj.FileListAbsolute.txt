@@ -1,0 +1,6 @@
+E:\Spring 2018\Programming\Interface_Example\LocationInterfaceLib\bin\Debug\LocationInterfaceLib.dll
+E:\Spring 2018\Programming\Interface_Example\LocationInterfaceLib\bin\Debug\LocationInterfaceLib.pdb
+E:\Spring 2018\Programming\Interface_Example\LocationInterfaceLib\obj\Debug\LocationInterfaceLib.csprojResolveAssemblyReference.cache
+E:\Spring 2018\Programming\Interface_Example\LocationInterfaceLib\obj\Debug\LocationInterfaceLib.csproj.CoreCompileInputs.cache
+E:\Spring 2018\Programming\Interface_Example\LocationInterfaceLib\obj\Debug\LocationInterfaceLib.dll
+E:\Spring 2018\Programming\Interface_Example\LocationInterfaceLib\obj\Debug\LocationInterfaceLib.pdb

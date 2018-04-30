@@ -1,0 +1,10 @@
+E:\Spring 2018\Programming\Interface_Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.exe.config
+E:\Spring 2018\Programming\Interface_Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.exe
+E:\Spring 2018\Programming\Interface_Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.pdb
+E:\Spring 2018\Programming\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.csprojResolveAssemblyReference.cache
+E:\Spring 2018\Programming\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.Form1.resources
+E:\Spring 2018\Programming\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.Properties.Resources.resources
+E:\Spring 2018\Programming\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.csproj.GenerateResource.cache
+E:\Spring 2018\Programming\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.csproj.CoreCompileInputs.cache
+E:\Spring 2018\Programming\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.exe
+E:\Spring 2018\Programming\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.pdb
